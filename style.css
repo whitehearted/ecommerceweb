@@ -1,0 +1,59 @@
+#mainlogo{
+    color: blue;
+    background-color: aliceblue;
+    font-style:italic;
+    float: inline-start;
+
+}
+#blue{
+    display:flexbox;
+}
+#list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:aliceblue;
+    align-self: first baseline;
+  }
+#cat{
+    list-style-type:none;
+    padding: 0%;
+    overflow:hidden;
+  }
+.name{
+    text-align: center;
+    background-color: black;
+    color: aqua;
+}
+#mob{
+    padding:30px;
+    font-size:larger;
+}
+#gro{
+    padding: 30px;
+    font-size:larger;
+}
+#fas{
+    padding: 30px;
+    font-size:larger;
+}
+#ele{
+    padding: 30px;
+    font-size:larger;
+}
+#hom{
+    font-size:larger;
+    padding: 30px;
+}
+div.scroll {
+    background-color: #333;
+    overflow:scroll;
+    white-space: nowrap;
+    padding: 10px;
+  }
+  
+  div.scroll img{
+    padding: 10px;
+  }
+  
